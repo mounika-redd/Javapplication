@@ -7,7 +7,7 @@
 <body>
     <h1>Hello, Mounika!</h1>
 
-    <h2>My Java application is running on Tomcat!</h2>
+    <h2>My Java application is running on Tomcat!-version 1.2</h2>
 
     <p>Application deployed successfully.</p>
     <p>Server: Apache Tomcat 10.1</p>
